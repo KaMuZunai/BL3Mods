@@ -1,0 +1,5 @@
+SparkPatchEntry,(1,1,0,),/Game/Pickups/Eridium/InvData_Eridium_Single.InvData_Eridium_Single,MonetaryValue,0,,(BaseValueConstant=1000000.0).
+
+SparkPatchEntry,(1,1,0,),/Game/Pickups/Eridium/InvData_Eridium_Stack.InvData_Eridium_Stack,MonetaryValue,0,,(BaseValueConstant=4000000.0)
+
+SparkPatchEntry,(1,1,0,),/Game/Pickups/Eridium/InvData_Eridium_Ingot.InvData_Eridium_Ingot,MonetaryValue,0,,(BaseValueConstant=1000000.0)
